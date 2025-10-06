@@ -1,0 +1,8 @@
+node_modules
+.git
+.cache
+.local
+.replit
+*.md
+design_guidelines.md
+final-dashboard-1759689426757.png
